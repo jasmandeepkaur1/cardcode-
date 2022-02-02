@@ -8,6 +8,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
 /**
  * The class where we create Cards
  * @author dancye, 2019
+ * date feb 2 2022
  */
 public class CardDealer 
 {
